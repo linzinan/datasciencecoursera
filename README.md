@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-Data Science Specialization by John Hopskin University
+Data Science Specialization by Johns Hopskins University
